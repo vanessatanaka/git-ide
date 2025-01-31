@@ -1,6 +1,4 @@
 //mensagem
-let nome = "Vanessa Tanaka VT";
+let nome = "Vanessa Tanaka VTA";
 let mensagem = `Olá, ${nome}`;
 console.log(mensagem);
-
-
