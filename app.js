@@ -1,4 +1,4 @@
 //mensagem
-let nome = "Vanessa Tanaka VTA";
-let mensagem = `Olá, ${nome}`;
+let nome = "VTA";
+let mensagem = `${nome} está aprendendo a ignorar pastas e arquivos no commit`;
 console.log(mensagem);
